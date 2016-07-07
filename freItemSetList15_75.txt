@@ -1,0 +1,49 @@
+live|342
+dead|549
+1|216
+2|184
+3|491
+male|577
+female|314
+middleage|486
+withfolk|354
+withoutfolk|537
+live 1|136
+live female|233
+live middleage|186
+live withfolk|179
+live withoutfolk|163
+dead 3|372
+dead male|468
+dead middleage|300
+dead withfolk|175
+dead withoutfolk|374
+3 male|347
+3 female|144
+3 middleage|254
+3 withfolk|167
+3 withoutfolk|324
+male middleage|316
+male withfolk|166
+male withoutfolk|411
+female middleage|170
+female withfolk|188
+middleage withfolk|177
+middleage withoutfolk|309
+live female withfolk|134
+dead 3 male|300
+dead 3 middleage|200
+dead 3 withoutfolk|255
+dead male middleage|260
+dead male withoutfolk|347
+dead middleage withoutfolk|207
+3 male middleage|193
+3 male withoutfolk|264
+3 middleage withoutfolk|188
+male middleage withoutfolk|233
+dead 3 male middleage|166
+dead 3 male withoutfolk|232
+dead 3 middleage withoutfolk|150
+dead male middleage withoutfolk|191
+3 male middleage withoutfolk|160
+dead 3 male middleage withoutfolk|136
